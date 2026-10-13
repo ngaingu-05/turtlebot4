@@ -1,0 +1,11 @@
+[lifecycle_manager-11] [INFO] [1791880944.242350190] [lifecycle_manager_navigation]: [34m[1mManaged nodes are active[0m[0m
+[bt_navigator-6] [INFO] [1791881254.649971519] [bt_navigator]: Begin navigating from current location (-0.25, -0.04) to (-0.41, 1.30)
+[bt_navigator-6] [INFO] [1791881288.200504461] [bt_navigator]: Goal succeeded
+[bt_navigator-6] [INFO] [1791881308.112332917] [bt_navigator]: Begin navigating from current location (-0.49, 1.12) to (-1.29, 1.92)
+[bt_navigator-6] [INFO] [1791881331.802865318] [bt_navigator]: Received goal preemption request
+[bt_navigator-6] [INFO] [1791881331.803094915] [bt_navigator]: Begin navigating from current location (-1.15, 1.73) to (-2.29, -0.06)
+[bt_navigator-6] [INFO] [1791881386.562918281] [bt_navigator]: Goal succeeded
+[bt_navigator-6] [INFO] [1791881397.141633770] [bt_navigator]: Begin navigating from current location (-2.20, 0.14) to (-2.57, -1.54)
+[bt_navigator-6] [INFO] [1791881457.792210306] [bt_navigator]: Goal succeeded
+[bt_navigator-6] [INFO] [1791881490.410343296] [bt_navigator]: Begin navigating from current location (-2.47, -1.33) to (2.22, 3.68)
+[bt_navigator-6] [INFO] [1791881747.158625147] [bt_navigator]: Goal succeeded
